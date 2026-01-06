@@ -21,6 +21,8 @@ while explicitly prioritizing **minority-class recall**.
 
 ## Dataset Overview
 
+Dataset from Kaggle: https://www.kaggle.com/datasets/umitka/twitter-toxic-tweets
+
 - Total samples: ~32,000 tweets  
 - Class distribution:
   - Non-toxic (0): ~93%
